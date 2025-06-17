@@ -237,7 +237,7 @@ tr:hover {
 
 /* Resumo do farm */
 #resumoFarm {
-    background-color: #abcff5;
+    background-color: #1e4b7a;
     padding: 15px;
     border-radius: 8px;
     border: 1px solid #0084ff;
@@ -248,11 +248,11 @@ tr:hover {
 }
 
 #resumoFarm div {
-    color: #2c3e50;
+    color: #ffffff;
 }
 
 #resumoFarm strong {
-    color: #2c3e50;
+    color: #ffffff;
 }
 
 /* Lista de farms salvos */
